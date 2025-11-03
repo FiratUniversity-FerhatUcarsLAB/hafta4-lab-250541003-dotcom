@@ -1,7 +1,7 @@
 AD SOYAD:MELİKE KEKE
 	ÖĞRENCİ NO:250541003
 	TARİH:03.11.2025
-	AÇIKLAMA;3.GOREV MAAŞ HESAPLAMA
+	AÇIKLAMA;GOREV 3- MAAŞ HESAPLAMA
 	package odev;
 
 import java.security.DrbgParameters.NextBytes;
