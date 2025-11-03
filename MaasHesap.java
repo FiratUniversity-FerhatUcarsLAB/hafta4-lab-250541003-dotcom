@@ -1,4 +1,6 @@
-package odev;
+AD SOYAD:MELİKE KEKE
+	ÖĞRENCİ NO:250541003
+	package odev;
 
 import java.security.DrbgParameters.NextBytes;
 import java.util.Scanner;
@@ -15,6 +17,9 @@ int haftalıkSaat,mesaiSaati;
 final double SGK_ORANI=0.14;
 final double GELİR_VERGİSİ_ORANI=0.15;
 final double DAMGA_VERGİSİ_ORANI=0.00759;
+System.out.println("====================================");
+System.out.println("           MAAS BORDROSU");
+System.out.println("====================================");
 System.out.println("Çalışanın adını giriniz:");
 ad=input.nextLine();
 System.out.println("Çalışanın soyadını girinz:");
